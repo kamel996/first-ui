@@ -5,13 +5,13 @@
 }
 
 * {
-	color: rgb(16, 138, 16);
+	color: rgba(236, 247, 248, 0.733);
 	font-family: "Poppins", sans-serif;
 	text-decoration: none;
 }
 
 body {
-	background: #1e1f26;
+	background: #050111;
 	margin: 0;
 	padding: 0;
 	display: flex;
@@ -157,7 +157,7 @@ label:active {
 }
 
 #play {
-	background: #1f58ff;
+	background: #36446d;
 	margin-right: 10px;
 }
 
